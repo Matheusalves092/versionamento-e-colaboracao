@@ -1,0 +1,13 @@
+1- O que é uma Branch?
+Branch é uma ramificação do projeto
+Ela permite fazer mudanças sem mexer no código principal
+
+2- Para que ela serve?
+Ela serve para testar mudanças e fazer novas funções sem estragar o projeto principal
+Também ajuda quando várias pessoas estão trabalhando no mesmo projeto
+
+3- Aplicações práticas:
+
+Corrigir um bug: se o login estiver com problema, criamos uma branch para corrigir sem mexer no site que os usuários estão usando
+Criar uma função nova: podemos criar uma branch para fazer uma nova função e testar antes de colocar no projeto principal
+Trabalho em equipe: cada pessoa pode criar uma branch para fazer sua parte e depois juntar tudo no projeto principal
